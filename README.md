@@ -1,0 +1,2 @@
+# samplehats
+Among UsのカスタムスキンMODのサンプルです
